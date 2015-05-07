@@ -1,7 +1,20 @@
-<html><header><p1><h1>My name </h1></header>
-<body>
-<a href="http://www.nyt.com"><img src ="http://cdn.theatlantic.com/newsroom/img/posts/classroomjjjesusmain.jpg.jpg.jpg" /></a>
-<p><a href="http://www.nyt.com"> Yeah. that's it. </a></p>
-<p>work sucks </p>
-<p>boring as hell </p>
-</html>
+p{
+	font-size: 18px; font-family: Arial; color: orange;
+
+}
+
+div{
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+span{
+	color: brown; font-weight: bold; font-size: 20px;
+}
+a {
+	font-family: sans-serif; color: white
+}
